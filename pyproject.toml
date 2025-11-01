@@ -1,0 +1,7 @@
+[project]
+name = "securefile"
+version = "0.1.0"
+description = "簡易的なファイル暗号化ツール"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
